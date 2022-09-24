@@ -1,2 +1,2 @@
 # Dead-Cells-TAS
-Dead Cells Fresh File Tool Assisted Speedrun
+This repository contains files for research/preparation for a Fresh File Tool Assisted Speedrun of Dead Cells.
