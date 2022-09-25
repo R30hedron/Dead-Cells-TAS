@@ -46,11 +46,7 @@ int main(int argc, char *argv[]) {
     
     // Command line flag for starting search value
     int start_time = atoi(argv[1]);
-    //int goal = 794611;
-    //int goal = 883215;
-    //int goal = 776913;
-    //int goal = 845324;
-    int goal = 865152;
+    int goal = 999999;
     rnd *context = new _rnd;
     
     for (int i = start_time + 1; i < start_time + 2000000; i++) {
