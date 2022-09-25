@@ -4,11 +4,7 @@
 read VALUE
 OUT="000000"
 
-#while [ "$OUT" != "794611" ]
-#while [ "$OUT" != "883215" ]
-#while [ "$OUT" != "776913" ]
-#while [ "$OUT" != "845324" ]
-while [ "$OUT" != "865152" ]
+while [ "$OUT" != "999999" ]
 do
 
 # Get next candidate seed
