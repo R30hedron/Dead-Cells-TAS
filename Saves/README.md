@@ -4,10 +4,12 @@
 
 `/xxxxxx/` are folders containing map images (.png) created for each seed and biome.
 
-| Seed   | Timestamp |
-| ------ | --------- |
-| 776913 | 1114694   |
-| 794611 | 4745315   |
-| 845324 | 2733002   |
-| 865152 | 1558746   |
-| 883215 | 1436828   |
+| Seed   | Timestamp | Legendary         |
+| ------ | --------- | ----------------- |
+| 274688 | 4631100   | Wings of the Crow |
+| 376188 | 4041021   | Wings of the Crow |
+| 776913 | 1114694   | Lightspeed        |
+| 794611 | 4745315   | Lightspeed        |
+| 845324 | 2733002   | Lightspeed        |
+| 865152 | 1558746   | Lightspeed        |
+| 883215 | 1436828   | Lightspeed        |
