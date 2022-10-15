@@ -17,4 +17,12 @@ Key in central tower, exit in first left tower.
 #### Clock Room:
 Legendary Sinew Slicer
 #### High Peak Castle:
+Non-"troll shop"; exit on right "upper" branch.
 
+Green - Red - Blue
+
+Legendary Assassin's Dagger in Green Subarea
+
+No short entrances for subareas.
+
+Recommended Route: upper Red and Blue branches, don't pass through.
