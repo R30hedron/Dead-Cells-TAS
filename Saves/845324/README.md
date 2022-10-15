@@ -1,5 +1,5 @@
 ### Routing notes
-Survival focused
+Tactics or Survival focused
 #### Prisoners' Quarters:
 Nutcracker in Cursed Chest
 #### Promenade of the Condemned:
