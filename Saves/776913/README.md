@@ -5,7 +5,7 @@ Lightning Whip in timed door
 #### Promenade of the Condemned:
 Legendary Lightspeed dropped by Vine Elite
 #### Ramparts:
-Exit immediately after hint; final tower
+Exit immediately after hint; fifth (final) tower
 #### Black Bridge:
 Legendary Infantry Grenade
 #### Stilt Village / Fractured Shrines:
