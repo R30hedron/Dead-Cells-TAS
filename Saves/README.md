@@ -7,6 +7,7 @@
 | Seed   | Timestamp | Legendary         | Location   |
 | ------ | --------- | ----------------- | ---------- |
 | 274688 | 4631100   | Wings of the Crow | Ramparts   |
+| 298527 |           | Wings of the Crow | Prisoners' |
 | 376188 | 4041021   | Wings of the Crow | Promenade  |
 | 776913 | 1114694   | Lightspeed        | Promenade  |
 | 794611 | 4745315   | Lightspeed        | Ramparts   |
