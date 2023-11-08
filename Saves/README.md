@@ -9,7 +9,7 @@
 | 063272 |           | Wings of the Crow | Promenade  |
 | 166135 |           | Lightspeed        | Promenade  |
 | 274688 | 4631100   | Wings of the Crow | Ramparts   |
-| 279250 |           | Lightspeed        | Promenade  |
+| 279250 | 2820184   | Lightspeed        | Promenade  |
 | 298527 |           | Wings of the Crow | Prisoners' |
 | 376188 | 4041021   | Wings of the Crow | Promenade  |
 | 776913 | 1114694   | Lightspeed        | Promenade  |
