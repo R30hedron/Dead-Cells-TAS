@@ -3,10 +3,12 @@
 # Get starting seed
 read VALUE
 OUT="000000"
+IND=$(wc -l < out.txt)
 
 while [ "$OUT" != "999999" ]
 do
 
+IND=$((IND+1))
 # Get next candidate seed
 VALUE=$(./deadcells_rng "$VALUE")
 
@@ -20,6 +22,7 @@ sed -i "/initial_time_nsec/ainitial_time_sec=$VALUE" config.ini
 # Repackage .ltm file with modified config.ini
 tar czf deadcells.ltm annotations.txt config.ini editor.ini inputs
 
+{
 # Run libTAS headless
 timeout -k 10 2m libTAS -n -r "deadcells.ltm" "../Dead Cells/deadcells" &
 sleep 1
@@ -48,6 +51,8 @@ echo "$OUT" >> out.txt
 
 # Wait until deadcells ends to continue running
 tail --pid="$PID" -f /dev/null
-echo "Loop Complete"
+} > /dev/null 2> /dev/null
+
+echo "I: $IND\t\tT: $VALUE\tS: $OUT"
 
 done
