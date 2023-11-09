@@ -10,11 +10,11 @@
 | 166135 | 3280089   | Lightspeed        | Promenade  | NanoTyrannus          |
 | 274688 | 4631100   | Wings of the Crow | Ramparts   | Evian                 |
 | 279250 | 2820184   | Lightspeed        | Promenade  | NanoTyrannus          |
-| 298527 |           | Wings of the Crow | Prisoners' | NanoTyrannus          |
+| 298527 | 1618644   | Wings of the Crow | Prisoners' | NanoTyrannus          |
 | 376188 | 4041021   | Wings of the Crow | Promenade  | Vord                  |
 | 776913 | 1114694   | Lightspeed        | Promenade  | Matash                |
 | 794611 | 4745315   | Lightspeed        | Ramparts   | NanoTyrannus          |
-| 796269 | 1450035   | Lightspeed        | Promenade  | Vord                  |
+| 796269 | 1450035   | Lightspeed        | Promenade  | Kanra                 |
 | 845324 | 2733002   | Lightspeed        | Ramparts   | NanoTyrannus          |
 | 865152 | 1558746   | Lightspeed        | Prisoners' | NanoTyrannus          |
 | 883215 | 1436828   | Lightspeed        | Promenade  | powermf64             |
