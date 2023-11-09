@@ -6,8 +6,9 @@
 
 | Seed   | Timestamp | Legendary         | Location   | Found/Reported by     |
 | ------ | --------- | ----------------- | ---------- | --------------------- |
-| 063272 |           | Wings of the Crow | Promenade  |                       |
+| 063272 |           | Wings of the Crow | Promenade  | NanoTyrannus          |
 | 166135 | 3280089   | Lightspeed        | Promenade  | NanoTyrannus          |
+| 190592 |           | Wings of the Crow | Promenade  | NanoTyrannus          |
 | 274688 | 4631100   | Wings of the Crow | Ramparts   | Evian                 |
 | 279250 | 2820184   | Lightspeed        | Promenade  | NanoTyrannus          |
 | 298527 | 1618644   | Wings of the Crow | Prisoners' | NanoTyrannus          |
