@@ -8,6 +8,7 @@
 | ------ | --------- | ----------------- | ---------- | --------------------- |
 | 166135 | 3280089   | Lightspeed        | Promenade  | NanoTyrannus          |
 | 279250 | 2820184   | Lightspeed        | Promenade  | NanoTyrannus          |
+| 671070 |           | Lightspeed        | Prisoners' | Kanra                 |
 | 776913 | 1114694   | Lightspeed        | Promenade  | Matash                |
 | 794611 | 4745315   | Lightspeed        | Ramparts   | NanoTyrannus          |
 | 796269 | 1450035   | Lightspeed        | Promenade  | Kanra                 |
