@@ -6,7 +6,7 @@
 
 | Seed   | Timestamp | Legendary         | Location   | Found/Reported by     |
 | ------ | --------- | ----------------- | ---------- | --------------------- |
-| 547433 |           | Lightspeed        | Prisoners' | GanDrake              |
+| 547433 | 169776    | Lightspeed        | Prisoners' | GanDrake              |
 | 671070 | 2147814   | Lightspeed        | Prisoners' | Kanra                 |
 | 865152 | 1558746   | Lightspeed        | Prisoners' | NanoTyrannus          |
 |        |           |                   |            |                       |
